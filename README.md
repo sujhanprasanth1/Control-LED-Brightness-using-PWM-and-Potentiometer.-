@@ -118,6 +118,7 @@ To upload
 ## OUTPUT:
 
 <img width="1897" height="1027" alt="image" src="https://github.com/user-attachments/assets/cb8b576d-a88d-4506-b513-46fd71e560e3" />
+<img width="1280" height="964" alt="image" src="https://github.com/user-attachments/assets/e8102459-45b2-4197-8163-9542cfab3952" />
 
 
 # Result
